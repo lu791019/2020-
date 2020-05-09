@@ -1,6 +1,7 @@
 
 # 總統盃黑客松提案
 
+https://presidential-hackathon.taiwan.gov.tw/Default.aspx#schedule
 
 ---
 
